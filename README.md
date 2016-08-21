@@ -1,6 +1,6 @@
 # Syllabus
 
-Week | Day | Date | Slides | Readings | HW git
+Week | Day | Date | Slides | Readings | HW
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
 1 | Tue | 6/9 | [class 1](class1.pdf) | 1.1-1.3,1.9 | ex 1
 1 | Fri | 9/9 | class 2 | 1.4-1.6 | ex 2
