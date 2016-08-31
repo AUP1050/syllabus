@@ -23,7 +23,7 @@ linux, ruby, rails and various gems.
 **Title:**     Engineering Software as a Service: An Agile Approach Using Cloud Computing, 1st edition
 **ISBN-13:**   978-0984881246
 
-It is recommended to purchase the ebook version, which costs 10$.
+It is recommended to purchase the ebook version (10$).
 
 ### Course Outline (very tentative!)
 
@@ -86,10 +86,10 @@ Students must be mindful of this policy when making their travel
 arrangements, and especially during the Drop/Add and Exam Periods.
 
 ### Grading Policy
-* 20\% midterm exam
-* 40\% final project
-* 25\% homework
-* 15\% participation in class and attendance
+* 20% midterm exam
+* 40% final project
+* 25% homework
+* 15% participation in class and attendance
 
 ### Learning Outcome
 Students who successfully complete this course should be able to
