@@ -29,7 +29,7 @@ It is recommended to purchase the ebook version (10$).
 
 Week | Day | Date | Slides | Readings | HW
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
-1 | Tue | 6/9 | [class 1](class1.pdf) | 1.1-1.3,1.9 | ex 1
+1 | Tue | 6/9 | [class 1](../class1/slides.pdf) | 1.1-1.3,1.9 | ex 1
 1 | Fri | 9/9 | class 2 | 1.4-1.6 |
 2 | Tue | 13/9 | class 3 | 3.1-3.3,10.2 |
 2 | Fri | 16/9 | class 4 | 3.4-3.5 |
