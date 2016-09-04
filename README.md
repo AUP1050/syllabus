@@ -6,7 +6,6 @@
 * **Professor:** Tomer Libal
 * **Class Schedule:** Tue/Fri 9:00-10:20
 * **Credits:** 4
-* **Credits:** 4
 
 ### Course Description
 In this course we will follow the Agile approach to software
