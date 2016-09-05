@@ -46,7 +46,6 @@ It is recommended to purchase the ebook version (10$).
 
     * Linux terminal tutorials
       * [Tutorial 1](http://linuxcommand.org/lc3_learning_the_shell.php) - 1-5
-      * [Tutorial 2](http://www.ee.surrey.ac.uk/Teaching/Unix/) - first 3 parts (optional)
 
   * **Recommended Reading**
 
