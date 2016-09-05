@@ -24,6 +24,12 @@ linux, ruby, rails and various gems.
 
 It is recommended to purchase the ebook version (10$).
 
+### General Recommended Reading
+
+  * [Ruby/Programming tutorial](https://pine.fm/LearnToProgram/) (added
+    on 5/9/2016)
+
+
 ### Course Outline and Material
 
 1. 6/9/2016
