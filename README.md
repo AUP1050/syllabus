@@ -30,6 +30,21 @@ It is recommended to purchase the ebook version (10$).
     on 5/9/2016)
 
 
+### Course Topics (according to available time)
+
+  * Introduction (ch. 1)
+  * Linux
+  * Git/github
+  * Pair programming (ch. 10)
+  * Ruby programming (ch. 3)
+  * Software as a service (ch. 2)
+  * Rails (ch. 4)
+  * BDD (ch. 7)
+  * TDD (ch. 8)
+  * Deployment (ch. 12)
+  * Code maintenance (ch. 9)
+  * Design patterns (ch. 11)
+
 ### Course Outline and Material
 
 1. 6/9/2016
