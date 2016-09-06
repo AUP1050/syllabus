@@ -4,6 +4,8 @@
 
 * **Course Number:** CS3053
 * **Professor:** Tomer Libal
+* **Office:** SD-09
+* **Office Hours:** Tue 11:00-12:00
 * **Class Schedule:** Tue/Fri 9:00-10:20
 * **Credits:** 4
 
