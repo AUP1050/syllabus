@@ -53,7 +53,7 @@ It is recommended to purchase the ebook version (10$).
 
     * Introduction
     * Administration
-    * Plan & Document vs Agile
+    * Plan & Document
     * Registration to Github
     * Registration to Cloud9
 
@@ -64,11 +64,33 @@ It is recommended to purchase the ebook version (10$).
 
   * **Recommended Reading**
 
-    * Book 1.1-1.3,1.9
+    * Book 1.1-1.2
 
   * **Slides**
 
     * [class 1](https://github.com/AUP-SE/class1/blob/master/slides.pdf)
+
+2. 9/9/2016
+
+  * **Topics**
+
+    * Agile
+    * Productivity
+    * Software as a service
+    * Service Oriented Architecture
+    * Cloud Computing
+
+  * **Exercise**
+
+    * Git tutorials
+      * [Tutorial 1](http://pel-daniel.github.io/git-init/)
+      * [Tutorial 2](https://try.github.io/levels/1/challenges/1)
+
+  * **Recommended Reading**
+
+    * Book 1.3,1.9,1.4-1.6
+
+  * **Slides**
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
