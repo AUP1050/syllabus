@@ -92,6 +92,9 @@ It is recommended to purchase the ebook version (10$).
 
   * **Slides**
 
+    * [class 2](https://github.com/AUP-SE/class2/blob/master/slides.pdf)
+
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
