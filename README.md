@@ -87,6 +87,7 @@ It is recommended to purchase the ebook version (10$).
     * Git tutorials
       * [Tutorial 1](http://pel-daniel.github.io/git-init/)
       * [Tutorial 2](https://try.github.io/levels/1/challenges/1)
+    * Ex1 - in class, you will get an email with further instructions
 
   * **Recommended Reading**
 
