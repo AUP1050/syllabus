@@ -100,7 +100,6 @@ It is recommended to purchase the ebook version (10$).
 
   * **Topics**
 
-    * Cloud Computing
     * Introduction to Ruby
 
   * **Exercise**
@@ -109,7 +108,7 @@ It is recommended to purchase the ebook version (10$).
 
   * **Recommended Reading**
 
-    * Book 1.6, 3.1-3.3
+    * Book 3.1-3.3
 
   * **Slides**
 
