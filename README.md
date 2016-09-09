@@ -80,7 +80,6 @@ It is recommended to purchase the ebook version (10$).
     * Productivity
     * Software as a service
     * Service Oriented Architecture
-    * Cloud Computing
 
   * **Exercise**
 
@@ -91,12 +90,30 @@ It is recommended to purchase the ebook version (10$).
 
   * **Recommended Reading**
 
-    * Book 1.3,1.9,1.4-1.6
+    * Book 1.3,1.4,1.9
 
   * **Slides**
 
     * [class 2](https://github.com/AUP-SE/class2/blob/master/slides.pdf)
 
+3. 13/9/2016
+
+  * **Topics**
+
+    * Cloud Computing
+    * Introduction to Ruby
+
+  * **Exercise**
+
+    * Ex2
+
+  * **Recommended Reading**
+
+    * Book 1.6, 3.1-3.3
+
+  * **Slides**
+
+    * [class 3](https://github.com/AUP-SE/class3/blob/master/slides.pdf)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
