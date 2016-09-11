@@ -33,7 +33,7 @@ It is recommended to purchase the ebook version (10$).
   * [Ruby Programming](http://ruby-doc.com/docs/ProgrammingRuby/) (added
     11/9/2016)
     * For topics not covered in course such as metaprogramming and
-      reflection
+      reflection (3.5 in text book)
 
 ### Course Topics (according to available time)
 
