@@ -84,6 +84,7 @@ It is recommended to purchase the ebook version (10$).
     * Productivity
     * Software as a service
     * Service Oriented Architecture
+    * Git
 
   * **Exercise**
 
