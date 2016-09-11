@@ -30,6 +30,8 @@ It is recommended to purchase the ebook version (10$).
 
   * [Ruby/Programming tutorial](https://pine.fm/LearnToProgram/) (added
     on 5/9/2016)
+  * [Ruby Programming](http://ruby-doc.com/docs/ProgrammingRuby/) (added
+    11/9/2016)
 
 
 ### Course Topics (according to available time)
@@ -100,15 +102,17 @@ It is recommended to purchase the ebook version (10$).
 
   * **Topics**
 
+    * Cloud Computing
     * Introduction to Ruby
 
   * **Exercise**
 
+    * [Regex Tutorial](https://regexone.com/)
     * Ex2
 
   * **Recommended Reading**
 
-    * Book 3.1-3.3
+    * Book 1.6,3.1-3.3
 
   * **Slides**
 
