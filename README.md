@@ -20,9 +20,10 @@ Among technologies which will be learned are: git, github,
 linux, ruby, rails and various gems.
 
 ### Text Book
-**Authors:**   Fox, Armando and Patterson, David
-**Title:**     Engineering Software as a Service: An Agile Approach Using Cloud Computing, 1st edition
-**ISBN-13:**   978-0984881246
+
+ * **Authors:**   Fox, Armando and Patterson, David
+ * **Title:**     Engineering Software as a Service: An Agile Approach Using Cloud Computing, 1st edition
+ * **ISBN-13:**   978-0984881246
 
 It is recommended to purchase the ebook version (10$).
 
