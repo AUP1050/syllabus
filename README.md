@@ -29,7 +29,7 @@ It is recommended to purchase the ebook version (10$).
 
 ### News
 
-  * Applications to the summer internship at GitHub are now open. Check [here](https://github.com/blog/2246-summer-internships-at-github-in-san-francisco) for more information
+  * Applications for the summer internship at GitHub are now open. Check [here](https://github.com/blog/2246-summer-internships-at-github-in-san-francisco) for more information
 
 ### General Recommended Reading
 
