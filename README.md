@@ -27,6 +27,10 @@ linux, ruby, rails and various gems.
 
 It is recommended to purchase the ebook version (10$).
 
+### News
+
+  * Applications to the summer internship at GitHub are now open. Check [here](https://github.com/blog/2246-summer-internships-at-github-in-san-francisco) for more information
+
 ### General Recommended Reading
 
   * [Ruby/Programming tutorial](https://pine.fm/LearnToProgram/) (added
