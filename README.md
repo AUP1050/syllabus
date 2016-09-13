@@ -48,6 +48,9 @@ It is recommended to purchase the ebook version (10$).
     11/9/2016)
     * For topics not covered in course such as metaprogramming and
       reflection (3.5 in text book)
+  * [Why I use
+    Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/)
+(added 13/9/2016)
 
 ### Course Topics (according to available time)
 
@@ -123,6 +126,10 @@ It is recommended to purchase the ebook version (10$).
       * Ruby and Other Programming Languages
       * Variables, arrays, hashes and methods
 
+  * **Misc**
+
+    * [How to avoide entering the SSH PassPhrase each
+      time](http://unix.stackexchange.com/questions/12195/how-to-avoid-being-asked-passphrase-each-time-i-push-to-bitbucket)
   * **Exercise**
 
     * Finish the add3 method from class
