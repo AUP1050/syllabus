@@ -120,11 +120,12 @@ It is recommended to purchase the ebook version (10$).
 
     * Cloud Computing
     * Introduction to Ruby
+      * Ruby and Other Programming Languages
+      * Variables, arrays, hashes and methods
 
   * **Exercise**
 
-    * [Regex Tutorial](https://regexone.com/)
-    * Ex2
+    * Finish the add3 method from class
 
   * **Recommended Reading**
 
@@ -133,6 +134,25 @@ It is recommended to purchase the ebook version (10$).
   * **Slides**
 
     * [class 3](https://github.com/AUP-SE/class3/blob/master/slides.pdf)
+
+3. 16/9/2016
+
+  * **Topics**
+
+    * Introduction to Ruby
+
+  * **Exercise**
+
+    * [Regex Tutorial](https://regexone.com/)
+    * Ex2
+
+  * **Recommended Reading**
+
+    * Book 3.1-3.4,3.6-3.8
+
+  * **Slides**
+
+    * [class 4](https://github.com/AUP-SE/class4/blob/master/slides.pdf)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
