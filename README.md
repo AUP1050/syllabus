@@ -30,9 +30,9 @@ It is recommended to purchase the ebook version (10$).
 ### Errata
 
   * (13/9/2016) - I wrongly claimed that Java is sometimes pass by
-    refernce. Java is always pass by value. These values can be object
+    reference. Java is always pass by value. These values can be object
     references though. More on that can be found
-[here](http://www.javaworld.com/article/2077424/learn-java/does-java-pass-by-reference-or-pass-by-value.html)
+[here](http://www.javaworld.com/article/2077424/learn-java/does-java-pass-by-reference-or-pass-by-value.html).
 
 ### News
 
