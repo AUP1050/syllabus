@@ -174,7 +174,6 @@ It is recommended to purchase the ebook version (10$).
 
   * **Exercise**
 
-    * [Regex Tutorial](https://regexone.com/)
     * [Ex2
       invitation](https://classroom.github.com/assignment-invitations/a3d4de34394ddcc5936896f91d797ab0) - part 3
 
