@@ -107,7 +107,7 @@ It is recommended to purchase the ebook version (10$).
     * Git tutorials
       * [Tutorial 1](http://pel-daniel.github.io/git-init/)
       * [Tutorial 2](https://try.github.io/levels/1/challenges/1)
-    * Ex1 - in class, you will get an email with further instructions
+    * [Ex1 invitation](https://classroom.github.com/assignment-invitations/af1d5e25fb804335b2b3f0a1a95fca69)
 
   * **Recommended Reading**
 
@@ -142,16 +142,18 @@ It is recommended to purchase the ebook version (10$).
 
     * [class 3](https://github.com/AUP-SE/class3/blob/master/slides.pdf)
 
-3. 16/9/2016
+4. 16/9/2016
 
   * **Topics**
 
     * Introduction to Ruby
+    * Regular Expressions
 
   * **Exercise**
 
     * [Regex Tutorial](https://regexone.com/)
-    * Ex2
+    * [Ex2
+      invitation](https://classroom.github.com/assignment-invitations/a3d4de34394ddcc5936896f91d797ab0) - parts 1 and 2
 
   * **Recommended Reading**
 
@@ -160,6 +162,30 @@ It is recommended to purchase the ebook version (10$).
   * **Slides**
 
     * [class 4](https://github.com/AUP-SE/class4/blob/master/slides.pdf)
+
+5. 20/9/2016
+
+  * **Topics**
+
+    * OOP in Ruby
+    * Functional Programming
+    * Higher-order Functions
+    * Duck Typing
+
+  * **Exercise**
+
+    * [Regex Tutorial](https://regexone.com/)
+    * [Ex2
+      invitation](https://classroom.github.com/assignment-invitations/a3d4de34394ddcc5936896f91d797ab0) - part 3
+
+  * **Recommended Reading**
+
+    * Book 3.1-3.4,3.6-3.8
+
+  * **Slides**
+
+    * [class 5](https://github.com/AUP-SE/class5/blob/master/slides.pdf)
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
