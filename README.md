@@ -39,6 +39,10 @@ It is recommended to purchase the ebook version (10$).
   * (12/9/2016) - Applications for the summer internship at GitHub are now open. Check [here](https://github.com/blog/2246-summer-internships-at-github-in-san-francisco) for more information
   * (13/9/2016) - For any **non-personal** request or problem regarding the exercise or
     the course, please issue it on the [GitHub Page](https://github.com/AUP-SE/syllabus/issues)
+  * (20/9/2016) - Exercises now have **deadlines!** Please check the
+    deadline in the description of the classes.
+  * (20/9/2016) - In next class we are going to have a Ruby competition.
+    Sharpen well your Ruby skills!
 
 ### General Recommended Reading
 
@@ -171,11 +175,13 @@ It is recommended to purchase the ebook version (10$).
     * Functional Programming
     * Higher-order Functions
     * Duck Typing
+    * Mixins
 
   * **Exercise**
 
     * [Ex2
       invitation](https://classroom.github.com/assignment-invitations/a3d4de34394ddcc5936896f91d797ab0) - part 3
+      * **Deadline** 22/9/2016
 
   * **Recommended Reading**
 
@@ -185,6 +191,22 @@ It is recommended to purchase the ebook version (10$).
 
     * [class 5](https://github.com/AUP-SE/class5/blob/master/slides.pdf)
 
+6. 23/9/2016
+
+  * **Topics**
+
+    * Pair Programming
+    * Class Competition
+
+  * **Exercise**
+
+  * **Recommended Reading**
+
+    * Book 10.2-10.3
+
+  * **Slides**
+
+    * [class 6](https://github.com/AUP-SE/class6/blob/master/slides.pdf)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
