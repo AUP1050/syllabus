@@ -214,6 +214,24 @@ It is recommended to purchase the ebook version (10$).
 
     * [class 6](https://github.com/AUP-SE/class6/blob/master/slides.pdf)
 
+7. 27/9/2016
+
+  * **Topics**
+
+    * The Architecture of Software as a Service
+
+  * **Exercise**
+
+  * **Recommended Reading**
+
+    * Book 2
+
+  * **Slides**
+
+    * [class 7](https://github.com/AUP-SE/class7/blob/master/slides.pdf)
+
+
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
