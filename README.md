@@ -197,8 +197,14 @@ It is recommended to purchase the ebook version (10$).
 
     * Pair Programming
     * Class Competition
+      * [Ruby Koans](https://github.com/AUP-SE/competition1)
 
   * **Exercise**
+
+  * **Recommended Training**
+
+    * Try to finish the [Ruby Koans](https://github.com/AUP-SE/competition1)
+      * Each team member has access also to his team repository
 
   * **Recommended Reading**
 
