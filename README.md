@@ -223,22 +223,37 @@ It is recommended to purchase the ebook version (10$).
       [Cookies](https://www.youtube.com/watch?v=Xlt7xeqVfO4&list=PLeMMGxq3FPxhIl2r2gDNk_8HLGsxGdsu0&index=1)
     * [HTML](https://www.youtube.com/watch?v=wy6O5hAjKAo&list=PLeMMGxq3FPxhIl2r2gDNk_8HLGsxGdsu0&index=2) and [CSS](https://www.youtube.com/watch?v=E5ZVorHn_fs&index=4&list=PLeMMGxq3FPxhIl2r2gDNk_8HLGsxGdsu0)
     * The Server Architecture
-    * TDD
-    * BDD
 
   * **Exercise**
 
-    * Ex3
+    * Ex3 (part 0)
 
   * **Recommended Reading**
 
-    * Book 2.1-2.4, 8.1-8.2, 7.1
+    * Book 2.1-2.4
 
   * **Slides**
 
     * [class 7](https://github.com/AUP-SE/class7/blob/master/slides.pdf)
 
+8. 30/9/2016
 
+  * **Topics**
+
+    * TDD
+    * BDD
+
+  * **Exercise**
+
+    * Ex3 (part 1)
+
+  * **Recommended Reading**
+
+    * Book 8.1-8.2, 7.1
+
+  * **Slides**
+
+    * [class 8](https://github.com/AUP-SE/class8/blob/master/slides.pdf)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
