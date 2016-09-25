@@ -36,13 +36,21 @@ It is recommended to purchase the ebook version (10$).
 
 ### News
 
-  * (12/9/2016) - Applications for the summer internship at GitHub are now open. Check [here](https://github.com/blog/2246-summer-internships-at-github-in-san-francisco) for more information
-  * (13/9/2016) - For any **non-personal** request or problem regarding the exercise or
-    the course, please issue it on the [GitHub Page](https://github.com/AUP-SE/syllabus/issues)
-  * (20/9/2016) - Exercises now have **deadlines!** Please check the
-    deadline in the description of the classes.
+  * (25/9/2016) - The SaaS book is accompanied with a MooC which
+    contains lectures for each part of the book
+[CS191.1x](https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/info)
+and
+[CS191.2x](https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.2x+1T2016SP/info)
+  * (25/9/2016) - The SaaS book is accompanied with
+    [screencast](http://www.saasbook.info/screencasts) which go
+deeper on some topics than discussed in class
   * (20/9/2016) - In next class we are going to have a Ruby competition.
     Sharpen well your Ruby skills!
+  * (20/9/2016) - Exercises now have **deadlines!** Please check the
+    deadline in the description of the classes.
+  * (13/9/2016) - For any **non-personal** request or problem regarding the exercise or
+    the course, please issue it on the [GitHub Page](https://github.com/AUP-SE/syllabus/issues)
+  * (12/9/2016) - Applications for the summer internship at GitHub are now open. Check [here](https://github.com/blog/2246-summer-internships-at-github-in-san-francisco) for more information
 
 ### General Recommended Reading
 
