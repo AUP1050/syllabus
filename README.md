@@ -218,13 +218,21 @@ It is recommended to purchase the ebook version (10$).
 
   * **Topics**
 
-    * The Architecture of Software as a Service
+    * Client - Server Architecture
+    * TCP/IP, HTTP, URI and
+      [Cookies](https://www.youtube.com/watch?v=Xlt7xeqVfO4&list=PLeMMGxq3FPxhIl2r2gDNk_8HLGsxGdsu0&index=1)
+    * [HTML](https://www.youtube.com/watch?v=wy6O5hAjKAo&list=PLeMMGxq3FPxhIl2r2gDNk_8HLGsxGdsu0&index=2) and [CSS](https://www.youtube.com/watch?v=E5ZVorHn_fs&index=4&list=PLeMMGxq3FPxhIl2r2gDNk_8HLGsxGdsu0)
+    * The Server Architecture
+    * TDD
+    * BDD
 
   * **Exercise**
 
+    * Ex3
+
   * **Recommended Reading**
 
-    * Book 2
+    * Book 2.1-2.4, 8.1-8.2, 7.1
 
   * **Slides**
 
