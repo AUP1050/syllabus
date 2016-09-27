@@ -234,7 +234,7 @@ deeper on some topics than discussed in class
 
   * **Exercise**
 
-    * Ex3 (part 0)
+    * [Ex3-0](https://github.com/AUP-SE/ex3-0)
 
   * **Recommended Reading**
 
