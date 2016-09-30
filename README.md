@@ -248,20 +248,41 @@ deeper on some topics than discussed in class
 
   * **Topics**
 
-    * TDD
-    * BDD
+    * MVC
+    * Active Records
+    * Intro to TDD
 
   * **Exercise**
 
-    * Ex3 (part 1)
+    * [Ex3](https://classroom.github.com/assignment-invitations/05a08ef49d05442d6d04ca6e65d260f2) (part 1)
 
   * **Recommended Reading**
 
-    * Book 8.1-8.2, 7.1
+    * Book 2.5-2.6, 8.1-8.2
 
   * **Slides**
 
     * [class 8](https://github.com/AUP-SE/class8/blob/master/slides.pdf)
+
+9. 4/10/2016
+
+  * **Topics**
+
+    * Routes and REST
+    * Template Views
+    * Intro to BDD
+
+  * **Exercise**
+
+    * Finish [Ex3](https://classroom.github.com/assignment-invitations/05a08ef49d05442d6d04ca6e65d260f2)
+
+  * **Recommended Reading**
+
+    * Book 2.7-2.8, 7.1
+
+  * **Slides**
+
+    * [class 9](https://github.com/AUP-SE/class9/blob/master/slides.pdf)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
