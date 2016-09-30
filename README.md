@@ -280,6 +280,11 @@ deeper on some topics than discussed in class
 
     * Book 2.7-2.8, 7.1
 
+  * **Further Reading**
+
+    * REST -
+      [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
+
   * **Slides**
 
     * [class 9](https://github.com/AUP-SE/class9/blob/master/slides.pdf)
