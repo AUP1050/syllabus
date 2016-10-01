@@ -36,6 +36,9 @@ It is recommended to purchase the ebook version (10$).
 
 ### News
 
+  * (1/10/2016) - For Senior student who consider further studies, check
+    out the [Master’s Program in Logic and Computation](http://logic-cs.at/master/grants-and-scholarships/) in Vienna.
+    Female students can apply for the Helmut Veith Stipend for this program.
   * (25/9/2016) - The SaaS book is accompanied with a MooC which
     contains lectures for each part of the book
 [CS191.1x](https://courses.edx.org/courses/course-v1:BerkeleyX+CS169.1x+3T2015SP/info)
