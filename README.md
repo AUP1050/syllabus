@@ -292,6 +292,67 @@ deeper on some topics than discussed in class
 
     * [class 9](https://github.com/AUP-SE/class9/blob/master/slides.pdf)
 
+10. 7/10/2016
+
+  * **Topics**
+
+    * Intro to Rails
+    * Debugging SaaS
+    * Databases and migrations
+    * Models and Active Records
+
+  * **Exercise**
+
+  * **Recommended Reading**
+
+    * Book 4.1-4.3,4.5
+
+  * **Slides**
+
+    * [class 10](https://github.com/AUP-SE/class10/blob/master/slides.pdf)
+
+11. 11/10/2016
+
+  * **Topics**
+
+    * Database Seeding
+    * Views and HAML
+    * Controllers
+    * Forms
+    * Sessions
+
+  * **Exercise**
+
+    * Ex4
+
+  * **Recommended Reading**
+
+    * Book 4.4,4.6-4.10
+
+  * **Slides**
+
+    * [class 11](https://github.com/AUP-SE/class11/blob/master/slides.pdf)
+
+12. 14/10/2016
+
+  * **Topics**
+
+  * **Exercise**
+
+  * **Recommended Reading**
+
+  * **Slides**
+
+    * [class 12](https://github.com/AUP-SE/class12/blob/master/slides.pdf)
+
+13. 18/10/2016
+
+  * **Midterm Exam**
+
+    * Book chapters 1 - 4
+    * Slides 1 - 11
+    * Exercises 1 - 4
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
