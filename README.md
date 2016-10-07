@@ -36,7 +36,7 @@ It is recommended to purchase the ebook version (10$).
 
 ### News
 
-  * (7/10/2016) - Midterm exam is on 18/10/2016.
+  * (7/10/2016) - **Midterm exam** is on 18/10/2016.
   * (1/10/2016) - For Senior student who consider further studies, check
     out the [Master’s Program in Logic and Computation](http://logic-cs.at/master/grants-and-scholarships/) in Vienna.
     Female students can apply for the Helmut Veith Stipend for this program.
