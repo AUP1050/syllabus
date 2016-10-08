@@ -67,6 +67,8 @@ deeper on some topics than discussed in class
   * [Why I use
     Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/)
 (added 13/9/2016)
+  * [Pronouncing SQL: S-Q-L or
+    Sequel?](http://patorjk.com/blog/2012/01/26/pronouncing-sql-s-q-l-or-sequel/)
 
 ### Course Topics (according to available time)
 
@@ -329,6 +331,11 @@ deeper on some topics than discussed in class
   * **Recommended Reading**
 
     * Book 4.4,4.6-4.10
+
+  * **Further Reading**
+
+    * [Sessions, Cookies and
+      Flash](http://www.theodinproject.com/ruby-on-rails/sessions-cookies-and-authentication)
 
   * **Slides**
 
