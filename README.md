@@ -321,16 +321,12 @@ deeper on some topics than discussed in class
     * Database Seeding
     * Views and HAML
     * Controllers
-    * Forms
-    * Sessions
 
   * **Exercise**
 
-    * Ex4
-
   * **Recommended Reading**
 
-    * Book 4.4,4.6-4.10
+    * Book 4.4
 
   * **Further Reading**
 
@@ -345,9 +341,16 @@ deeper on some topics than discussed in class
 
   * **Topics**
 
+    * Forms
+    * Sessions
+
   * **Exercise**
 
+    * Ex4
+
   * **Recommended Reading**
+
+    * Book 4.6-4.10
 
   * **Slides**
 
