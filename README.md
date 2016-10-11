@@ -328,11 +328,6 @@ deeper on some topics than discussed in class
 
     * Book 4.4
 
-  * **Further Reading**
-
-    * [Sessions, Cookies and
-      Flash](http://www.theodinproject.com/ruby-on-rails/sessions-cookies-and-authentication)
-
   * **Slides**
 
     * [class 11](https://github.com/AUP-SE/class11/blob/master/slides.pdf)
@@ -351,6 +346,11 @@ deeper on some topics than discussed in class
   * **Recommended Reading**
 
     * Book 4.6-4.10
+
+  * **Further Reading**
+
+    * [Sessions, Cookies and
+      Flash](http://www.theodinproject.com/ruby-on-rails/sessions-cookies-and-authentication)
 
   * **Slides**
 
