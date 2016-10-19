@@ -364,6 +364,59 @@ deeper on some topics than discussed in class
     * Slides 1 - 11
     * Exercises 1 - 4
 
+14. 21/10/2016
+
+  * **Topics**
+
+    * Teams
+    * Formation of the two teams
+
+  * **Recommended Reading**
+
+    * Book 10.1
+
+  * **Further Reading**
+
+    * [Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
+
+  * **Slides**
+
+    * [class 13](https://github.com/AUP-SE/class13/blob/master/slides.pdf)
+
+15. 25/10/2016
+
+  * **Topics**
+
+    * Points, Velocity, and Pivotal Tracker
+    * SMART User Stories
+    * Lo-Fi User Interface Sketches and Storyboards
+    * Agile Cost Estimation
+
+  * **Recommended Reading**
+
+    * Book 7.2-7.5
+
+  * **Slides**
+
+    * [class 14](https://github.com/AUP-SE/class14/blob/master/slides.pdf)
+
+16. 28/10/2016
+
+  * **Topics**
+
+    * Cucumber and Capybara
+    * Git and teams, branches
+
+  * **Recommended Reading**
+
+    * Book 7.6-7.7,10.4-10.5
+
+  * **Slides**
+
+    * [class 15](https://github.com/AUP-SE/class15/blob/master/slides.pdf)
+
+
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
