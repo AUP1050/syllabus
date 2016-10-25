@@ -391,10 +391,11 @@ deeper on some topics than discussed in class
     * SMART User Stories
     * Lo-Fi User Interface Sketches and Storyboards
     * Agile Cost Estimation
+    * Git and Teams
 
   * **Recommended Reading**
 
-    * Book 7.2-7.5
+    * Book 7.2-7.5, 10.4
 
   * **Slides**
 
@@ -405,11 +406,11 @@ deeper on some topics than discussed in class
   * **Topics**
 
     * Cucumber and Capybara
-    * Git and teams, branches
+    * Git branches
 
   * **Recommended Reading**
 
-    * Book 7.6-7.7,10.4-10.5
+    * Book 7.6-7.7, 10.5
 
   * **Slides**
 
