@@ -416,6 +416,50 @@ deeper on some topics than discussed in class
 
     * [class 15](https://github.com/AUP-SE/class15/blob/master/slides.pdf)
 
+17. 4/11/2016
+
+  * **Topics**
+
+    * Cucumber and Capybara - Repetition
+    * Scrum and Agile - Presentation by Natalie and Henry
+
+  * **Recommended Reading**
+
+    * [A Scrum
+      Guide](http://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf)
+
+18. 8/11/2016
+
+  * **Topics**
+
+    * TDD Workout
+    * Seams
+
+  * **Recommended Reading**
+
+    * Book 8.1-8.3
+
+  * **Slides**
+
+    * [class 16](https://github.com/AUP-SE/class16/blob/master/slides.pdf)
+
+19. 11/11/2016
+
+  * **Topics**
+
+    * Expectations, Mocks and Stubs
+    * Fixtures and Factories
+
+  * **Recommended Reading**
+
+    * Book 8.4-8.5
+
+  * **Slides**
+
+    * [class 17](https://github.com/AUP-SE/class17/blob/master/slides.pdf)
+
+
+
 
 
 ### Attendance Policy
