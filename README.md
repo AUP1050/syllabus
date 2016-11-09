@@ -431,6 +431,11 @@ deeper on some topics than discussed in class
 18. 8/11/2016
 
   * **Topics**
+    * Cucumber and Capybara - Demonstration
+
+19. 11/11/2016
+
+  * **Topics**
 
     * TDD Workout
     * Seams
@@ -443,7 +448,7 @@ deeper on some topics than discussed in class
 
     * [class 16](https://github.com/AUP-SE/class16/blob/master/slides.pdf)
 
-19. 11/11/2016
+20. 15/11/2016
 
   * **Topics**
 
