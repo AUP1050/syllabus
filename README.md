@@ -452,8 +452,13 @@ deeper on some topics than discussed in class
 
   * **Topics**
 
-    * Expectations, Mocks and Stubs
-    * Fixtures and Factories
+    * Seams Repetition
+
+21. 18/11/2016
+
+  * **Topics**
+
+    * Expectations
 
   * **Recommended Reading**
 
@@ -462,6 +467,23 @@ deeper on some topics than discussed in class
   * **Slides**
 
     * [class 17](https://github.com/AUP-SE/class17/blob/master/slides.pdf)
+
+20. 22/11/2016
+
+  * **Topics**
+
+    * Mocks and Stubs
+    * Fixtures and Factories
+
+  * **Recommended Reading**
+
+    * Book 8.4-8.5
+
+  * **Slides**
+
+    * [class 18](https://github.com/AUP-SE/class18/blob/master/slides.pdf)
+
+
 
 
 
