@@ -468,7 +468,7 @@ deeper on some topics than discussed in class
 
     * [class 17](https://github.com/AUP-SE/class17/blob/master/slides.pdf)
 
-20. 22/11/2016
+22. 22/11/2016
 
   * **Topics**
 
@@ -483,11 +483,33 @@ deeper on some topics than discussed in class
 
     * [class 18](https://github.com/AUP-SE/class18/blob/master/slides.pdf)
 
+23. 25/11/2016
 
+  * **Topics**
 
+    * Testing the Model
 
+  * **Recommended Reading**
 
+    * Book 8.6
 
+  * **Slides**
+
+    * [class 19](https://github.com/AUP-SE/class19/blob/master/slides.pdf)
+
+24. 29/11/2016
+
+  * **Topics**
+
+    * Code Coverage
+
+  * **Recommended Reading**
+
+    * Book 8.7
+
+  * **Slides**
+
+    * [class 20](https://github.com/AUP-SE/class20/blob/master/slides.pdf)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
