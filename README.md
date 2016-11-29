@@ -501,15 +501,25 @@ deeper on some topics than discussed in class
 
   * **Topics**
 
+    * Watching an [interview with Jesse
+      Toth](https://www.youtube.com/watch?v=TbLKnB-Hzss)
+
+25. 2/12/2016
+
+  * **Topics**
+
     * Code Coverage
+    * Code Metrics
 
   * **Recommended Reading**
 
-    * Book 8.7
+    * Book 8.7, 9
 
   * **Slides**
 
     * [class 20](https://github.com/AUP-SE/class20/blob/master/slides.pdf)
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
