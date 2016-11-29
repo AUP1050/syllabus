@@ -503,6 +503,12 @@ deeper on some topics than discussed in class
 
     * Watching an [interview with Jesse
       Toth](https://www.youtube.com/watch?v=TbLKnB-Hzss)
+      * Working in small and big startup companies
+      * Job interviews
+      * Salary considerations
+      * Building your programming portfolio
+      * Pair progamming
+      * BDD and TDD
 
 25. 2/12/2016
 
