@@ -569,7 +569,7 @@ deeper on some topics than discussed in class
 
   * **Topics**
 
-    * Presetation of projects
+    * Presentation of projects
 
 
 
