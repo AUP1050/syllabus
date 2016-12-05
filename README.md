@@ -516,14 +516,60 @@ deeper on some topics than discussed in class
 
     * Code Coverage
     * Code Metrics
+    * ActiveRecord Associations
 
   * **Recommended Reading**
 
     * Book 8.7, 9
 
+  * **Additional Reading**
+
+    * BerkeleyX's CS169.2x online lectures - Week 1 about Associations
+    * Book 5.3-5.5
+
   * **Slides**
 
     * [class 20](https://github.com/AUP-SE/class20/blob/master/slides.pdf)
+
+26. 6/12/2016
+
+  * **Topics**
+
+    * Design Patterns
+
+  * **Recommended Reading**
+
+    * Book 11
+
+  * **Slides**
+
+    * [class 21](https://github.com/AUP-SE/class21/blob/master/slides.pdf)
+
+27. 9/12/2016
+
+  * **Topics**
+
+    * Design Patterns
+
+  * **Recommended Reading**
+
+    * Book 11
+
+  * **Slides**
+
+    * [class 22](https://github.com/AUP-SE/class22/blob/master/slides.pdf)
+
+28. 13/12/2016
+
+  * **Topics**
+
+    * Oral examinations about the projects
+
+29. 16/12/2016
+
+  * **Topics**
+
+    * Presetation of projects
 
 
 
