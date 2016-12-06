@@ -549,29 +549,13 @@ deeper on some topics than discussed in class
 
   * **Topics**
 
-    * Design Patterns
-
-  * **Recommended Reading**
-
-    * Book 11
-
-  * **Slides**
-
-    * [class 22](https://github.com/AUP-SE/class22/blob/master/slides.pdf)
+    * Reading Days
 
 28. 13/12/2016
 
   * **Topics**
 
     * Oral examinations about the projects
-
-29. 16/12/2016
-
-  * **Topics**
-
-    * Presentation of projects
-
-
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
