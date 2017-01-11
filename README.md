@@ -23,6 +23,14 @@ introduced.
 
  * **Author:**   Y. Daniel Liang
  * **Title:**    Intro to Java Programming, Comprehensive Version (10th Edition)
+  * Comprehensive Version (recommended as containing additional material
+    for self learning)
+    * **ISBN-13:** 978-0133761313
+    * **ISBN-10:** 0133761312
+  * Brief Version (covers all chapters studied)
+    * **ISBN-13:** 978-0133592207
+    * **ISBN-10:** 0133592200
+
 
 ### Course Topics (according to available time)
 
