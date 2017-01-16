@@ -70,7 +70,7 @@ introduced.
 
   * **Slides**
 
-    * (Intro and Admin)[https://github.com/AUP1050/class1]
+    * [Intro and Admin](https://github.com/AUP1050/class1)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
