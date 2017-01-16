@@ -19,6 +19,9 @@ topics such as arrays, inheritance, exceptions and recursion, more
 advanced topics as well as other programming language paradigms will be
 introduced.
 
+### Virtual class/chatroom (Piazza)
+ * https://piazza.com/class/iux59vwpoeg1zs
+
 ### Text Book (required)
 
  * **Author:**   Y. Daniel Liang
@@ -56,12 +59,18 @@ introduced.
     * Introduction
     * Administration
     * Registration to Gradiance
-    * Iterations, strings and classes
+    * Iterations and classes
 
   * **Exercise**
 
-    * Gradiance: Iterations
-    * Gradiance: Classes
+    * Java Iteration Lab (Gradiance) - due 21/1
+      * method 2 optional but please have a look
+    * Java Overloading Methods Lab (Gradiance) - due 21/1
+    * Java Basic Lab (Gradiance) - optional
+
+  * **Slides**
+
+    * (Intro and Admin)[https://github.com/AUP1050/class1]
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
