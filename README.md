@@ -72,6 +72,26 @@ introduced.
 
     * [Intro and Admin](https://github.com/AUP1050/class1)
 
+1. 19/1/2017
+
+  * **Topics**
+
+    * primitive and reference types - call by value
+    * static and dynamic memory allocations
+    * method overloading
+    * default constructors
+    * [The book compansion
+      site](http://wps.pearsoned.com/ecs_liang_ijp_10/)
+
+  * **Reading**
+    * [Chapter
+      7 (without 7.10-7.11)](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_234893_1&course_id=_6034_1)
+  * **Exercise**
+
+    * Work in pairs and presentation on Monday
+      * 7.3
+      * 7.8
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
