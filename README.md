@@ -80,17 +80,27 @@ introduced.
     * static and dynamic memory allocations
     * method overloading
     * default constructors
-    * [The book compansion
+    * [The book companion
       site](http://wps.pearsoned.com/ecs_liang_ijp_10/)
 
   * **Reading**
     * [Chapter
       7 (without 7.10-7.11)](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_234893_1&course_id=_6034_1)
-  * **Exercise**
 
-    * Work in pairs and presentation on Monday
+  * **Exercise**
+    * Work in pairs and presentation on Monday, divide
+      among the pairs the following three case studies:
       * 7.3
       * 7.8
+      * 7.13.2
+
+  * **Recommended**
+    * Answer all questions given in the text.
+    * Do the online quiz
+      * [Multiple choice quiz (requires access to companion
+        site)](http://wps.pearsoned.com/ecs_liang_ijp_10/)
+      * [Interactive
+        Quiz](http://www.cs.armstrong.edu/liang/interactivequiz/public_html/Chapter7.html)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
