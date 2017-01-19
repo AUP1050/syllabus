@@ -85,7 +85,7 @@ introduced.
 
   * **Reading**
     * [Chapter
-      7 (without 7.10-7.11)](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_234893_1&course_id=_6034_1)
+      7 (7.10-7.11 are optional)](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_234893_1&course_id=_6034_1)
 
   * **Exercise**
     * Work in pairs and presentation on Monday, divide
