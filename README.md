@@ -72,7 +72,7 @@ introduced.
 
     * [Intro and Admin](https://github.com/AUP1050/class1)
 
-1. 19/1/2017
+2. 19/1/2017
 
   * **Topics**
 
@@ -101,6 +101,20 @@ introduced.
         site)](http://wps.pearsoned.com/ecs_liang_ijp_10/)
       * [Interactive
         Quiz](http://www.cs.armstrong.edu/liang/interactivequiz/public_html/Chapter7.html)
+
+1. 23/1/2017
+
+  * **Topics**
+
+    * Reference and primitive types - arguments, return values and
+      equality
+    * Using V-lab
+    * Switches
+    * Command-line arguments and Eclipse
+
+  * **Exercise**
+
+    * String Arrays Lab 1-6 (Gradiance) - due 28/1
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
