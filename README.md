@@ -102,7 +102,7 @@ introduced.
       * [Interactive
         Quiz](http://www.cs.armstrong.edu/liang/interactivequiz/public_html/Chapter7.html)
 
-1. 23/1/2017
+3. 23/1/2017
 
   * **Topics**
 
@@ -115,6 +115,22 @@ introduced.
   * **Exercise**
 
     * String Arrays Lab 1-6 (Gradiance) - due 28/1
+
+4. 26/1/2017
+
+  * **Topics**
+
+    * Repetition on Arrays (Quiz)
+    * Case study (chapter 7.8)
+
+  * **Reading**
+    * [Chapter 8](https://blackboard.aup.edu/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_234893_1&course_id=_6034_1)
+
+  * **Exercise**
+
+    * Arrays Assignment (Gradiance) - due 30/1
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
