@@ -68,6 +68,10 @@ introduced.
     * Java Overloading Methods Lab (Gradiance) - due 21/1
     * Java Basic Lab (Gradiance) - optional
 
+  * **Solutions**
+    * [Solutions to Gradiance
+      Ex1](https://github.com/AUP1050/gradiance-ex1)
+
   * **Slides**
 
     * [Intro and Admin](https://github.com/AUP1050/class1)
@@ -115,6 +119,10 @@ introduced.
   * **Exercise**
 
     * String Arrays Lab 1-6 (Gradiance) - due 28/1
+
+  * **Solutions**
+    * [Solutions to Gradiance
+      Ex2](https://github.com/AUP1050/gradiance-ex2)
 
 4. 26/1/2017
 
