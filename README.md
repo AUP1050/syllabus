@@ -138,7 +138,36 @@ introduced.
 
     * Arrays Assignment (Gradiance) - due 30/1
 
+5. 30/1/2017
 
+  * **Topics**
+
+    * Binary numbers
+    * 2 and 3 dimensional arrays - case studies
+    * Git and EGit for Eclipse installation
+    * Basics of Unit testing
+
+  * **Exercise**
+
+    * Ex3 - Multidimensional arrays (8.11 and 8.21) - see github
+      assignment - due 4/2
+      * Please contact me for the access link
+
+6. 2/2/2017
+
+  * **Topics**
+
+    * Graded Quiz on Multidimensional arrays - selected questions from
+      [Liang's quiz](http://wps.pearsoned.com/ecs_liang_ijp_10/)
+    * Arrays Case study (8.7, 8.8.1)
+    * Classes case study (java.util.Random)
+
+  * **Reading**
+    * Chapter 9 - Objects and Classes
+
+  * **Exercise**
+
+    * Classes Assignment (Gradiance) - due 5/2
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
