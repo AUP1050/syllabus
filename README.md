@@ -157,9 +157,9 @@ introduced.
 
   * **Topics**
 
-    * Graded Quiz on Multidimensional arrays - selected questions from
+    * **Graded** Quiz on Multidimensional arrays - selected questions from
       [Liang's quiz](http://wps.pearsoned.com/ecs_liang_ijp_10/)
-    * Graded Arrays Case study (8.7, 8.8.1)
+    * **Graded** Arrays Case study (8.7, 8.8.1)
     * Classes case study (java.util.Random)
 
   * **Reading**
