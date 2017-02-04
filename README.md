@@ -157,17 +157,44 @@ introduced.
 
   * **Topics**
 
+    * More about multidimensional arrays
     * **Graded** Quiz on Multidimensional arrays - selected questions from
       [Liang's quiz](http://wps.pearsoned.com/ecs_liang_ijp_10/)
-    * **Graded** Arrays Case study (8.7, 8.8.1)
-    * Classes case study (java.util.Random)
+    * **Graded** Arrays Case study (8.7)
 
   * **Reading**
-    * Chapter 9 - Objects and Classes
+    * Chapter 9 - Objects and Classes (until 6/2)
 
   * **Exercise**
 
     * Classes Assignment (Gradiance) - due 5/2
+
+7. 6/2/2017
+
+  * **Topics**
+
+    * Selected topics from chapter 9
+    * **Graded** Quiz on Objects and classes - selected questions from
+      [Liang's quiz](http://wps.pearsoned.com/ecs_liang_ijp_10/)
+
+  * **Exercise**
+
+    * Classes Lab (Gradiance) - due 11/2
+
+8. 9/2/2017
+
+  * **Topics**
+
+    * **Graded** Classes and Objects case study
+
+  * **Reading**
+    * Chapter 10 - Object Oriented Thinking (until 13/2)
+
+  * **Exercise**
+    * Object Oriented Thinking
+
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
