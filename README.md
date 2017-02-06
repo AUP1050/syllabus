@@ -174,23 +174,25 @@ introduced.
   * **Topics**
 
     * Selected topics from chapter 9
+
     * **Graded** Quiz on Objects and classes - selected questions from
       [Liang's quiz](http://wps.pearsoned.com/ecs_liang_ijp_10/)
 
   * **Exercise**
 
-    * Classes Lab (Gradiance) - due 11/2
+    * Classes Lab on Github - due 11/2
 
 8. 9/2/2017
 
   * **Topics**
 
-    * **Graded** Classes and Objects case study
+    * **Graded** `java.util.arrays`
 
   * **Reading**
     * Chapter 10 - Object Oriented Thinking (until 13/2)
 
   * **Exercise**
+
     * Object Oriented Thinking
 
 
