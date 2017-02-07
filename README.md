@@ -174,6 +174,12 @@ introduced.
   * **Topics**
 
     * Selected topics from chapter 9
+      * Static versus dynamic error checking and definitions
+      * Packages and file structure
+      * Visibility modifiers
+      * Encapsulation
+
+    * Installation of m2eclipse (Maven) and its EGit interface
 
     * **Graded** Quiz on Objects and classes - selected questions from
       [Liang's quiz](http://wps.pearsoned.com/ecs_liang_ijp_10/)
@@ -186,7 +192,9 @@ introduced.
 
   * **Topics**
 
-    * **Graded** `java.util.arrays`
+    * **Graded** `java.util.Arrays`
+    * Review of Lab about arrays
+    * Review of HW about classes
 
   * **Reading**
     * Chapter 10 - Object Oriented Thinking (until 13/2)
