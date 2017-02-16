@@ -196,12 +196,51 @@ introduced.
     * Review of Lab about arrays
     * Review of HW about classes
 
+9. 13/2/2017
+
+  * **Topics**
+
+    * Repetition: Arrays
+      - variable declarations and values
+      - processing arrays using for and foreach loops
+      - copying arrays
+      - passing and returning arrays
+      - equality on arrays
+      - the above three are true for any reference type variable
+      - understanding two and higher dimensional arrays
+      - static versus dynamic
+
+  * In class exercise: Captials
+
+10. 20/2/2017
+
+  * **Topics**
+
+    * Repetition: Classes and objects
+      - static versus dynamic
+      - classes versus objects
+      - constructors and this
+      - using dot to access methods and fields of objects and classes
+      - default values and the null value
+      - when do we get NullPointerException?
+      - visibility modifiers
+      - encapsulation
+      - contracts and immutable objects
+      - variable scopes
+
+  * In class exercise: The Account class
+
   * **Reading**
-    * Chapter 10 - Object Oriented Thinking (until 13/2)
+    * Chapter 10 - Object Oriented Thinking (until 23/2)
 
   * **Exercise**
-
     * Object Oriented Thinking
+
+  * **Exam**
+    * chapters 7-9
+    * multiple choice
+    * 30 mminutes
+
 
 
 
