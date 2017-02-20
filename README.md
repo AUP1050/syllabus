@@ -233,17 +233,25 @@ introduced.
   * **Reading**
     * Chapter 10 - Object Oriented Thinking (until 23/2)
 
-  * **Exercise**
-    * Object Oriented Thinking
-
   * **Exam**
     * chapters 7-9
     * multiple choice
-    * 30 mminutes
+    * 30 minutes
 
+* 23/2/2017
 
+  * **Topics**
 
+    * Quiz on chapter 10
+    * Salim's presentation on Class Relationships (10.4) and the Course
+      class case study (10.5)
+    * Henry's presentation on the String class (10.10.1-10.10.2) and comparing it
+      to the StringBuilder class (10.11)
+    * Regular expressions fun
 
+  * In class exercise: Balancing parenthesis
+
+  * Homework
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
