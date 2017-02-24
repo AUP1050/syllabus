@@ -242,9 +242,11 @@ introduced.
 
   * **Topics**
 
-    * Quiz on chapter 10
+    * Variables scope
+    * Memory: Heap and Stack
     * Salim's presentation on Class Relationships (10.4) and the Course
       class case study (10.5)
+    * Quiz on chapter 10
     * Henry's presentation on the String class (10.10.1-10.10.2) and comparing it
       to the StringBuilder class (10.11)
     * Regular expressions fun
@@ -252,6 +254,25 @@ introduced.
   * In class exercise: Balancing parenthesis
 
   * Homework
+    * Exercise 10.9 **(due Monday 27/2/2017)** - use the following
+      [assignment link](https://classroom.github.com/assignment-invitations/4aea99681990b3e505f06ed3be28f4a8)
+
+12. 27/2/2017
+
+  * **Topics**
+
+    * Quiz on chapter 10
+    * Henry's presentation on the String class (10.10.1-10.10.2) and comparing it
+      to the StringBuilder class (10.11)
+    * Regular expressions fun
+
+  * In class exercise: JVM memory
+  * In class exercise: Balancing parenthesis
+
+  * Homework
+    * Finish in class exercises **(due Thursday 2/3/2017)**
+
+
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
