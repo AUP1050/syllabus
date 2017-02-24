@@ -246,12 +246,6 @@ introduced.
     * Memory: Heap and Stack
     * Salim's presentation on Class Relationships (10.4) and the Course
       class case study (10.5)
-    * Quiz on chapter 10
-    * Henry's presentation on the String class (10.10.1-10.10.2) and comparing it
-      to the StringBuilder class (10.11)
-    * Regular expressions fun
-
-  * In class exercise: Balancing parenthesis
 
   * Homework
     * Exercise 10.9 **(due Monday 27/2/2017)** - use the following
