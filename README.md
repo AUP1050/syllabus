@@ -318,9 +318,6 @@ introduced.
     * Case study: Stacks (11.13)
     * In class exercise: Inheritance
 
-  * **Reading**
-    * Chapter 11 - Inheritance and Polymorphism 11.9-11.15 (until 13/3)
-
   * **Homework**
     * Finish in class exercises **(due Thursday 16/3/2017)**
 
