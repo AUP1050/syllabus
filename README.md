@@ -286,6 +286,7 @@ introduced.
     * Automatic conversion
     * Regex for matching and split ([read here](https://regexone.com/references/java))
       * Regex [tutorial](https://regexone.com/lesson/introduction_abcs)
+        (lessons 1 to 10)
     * Using StringBuilder
     * Inheritance
       * Advantages
