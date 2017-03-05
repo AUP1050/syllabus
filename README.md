@@ -284,8 +284,7 @@ introduced.
   * **Topics**
 
     * Automatic conversion
-    * Regex for matching and split (see also this
-      [link](https://regexone.com/references/java))
+    * Regex for matching and split ([read here](https://regexone.com/references/java))
     * Using StringBuilder
     * Inheritance
       * Advantages
