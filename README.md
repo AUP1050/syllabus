@@ -266,7 +266,63 @@ introduced.
   * Homework
     * Finish in class exercises **(due Thursday 2/3/2017)**
 
+13. 2/3/2017
 
+  * **Topics**
+
+    * String manipulation
+    * Reverse Polish Notation
+
+  * In class exercise: Reverse a sentence
+  * In class exercise: Calculator
+
+  * Homework
+    * Finish in class exercises **(due Monday 6/3/2017)**
+
+13. 6/3/2017
+
+  * **Topics**
+
+    * Automatic conversion
+    * Regex
+    * Inheritance
+      * Advantages
+      * Disadvantages
+      * The memory picture
+
+    * In class exercise: Inheritance
+
+  * **Reading**
+    * Chapter 11 - Inheritance and Polymorphism 11.1-11.8 (until 9/3)
+
+14. 9/3/2017
+
+  * **Topics**
+
+    * Quiz on chapter 11 (11.1-11.8)
+    * Case study: Polymorphism and dynamic binding
+    * In class exercise: Inheritance
+
+  * **Reading**
+    * Chapter 11 - Inheritance and Polymorphism 11.9-11.15 (until 13/3)
+
+  * **Homework**
+    * Finish in class exercises **(due Monday 13/3/2017)**
+
+
+14. 13/3/2017
+
+  * **Topics**
+
+    * Quiz on chapter 11 (11.9-11.15)
+    * Case study: Stacks (11.13)
+    * In class exercise: Inheritance
+
+  * **Reading**
+    * Chapter 11 - Inheritance and Polymorphism 11.9-11.15 (until 13/3)
+
+  * **Homework**
+    * Finish in class exercises **(due Thursday 16/3/2017)**
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
