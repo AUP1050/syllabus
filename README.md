@@ -279,7 +279,7 @@ introduced.
   * Homework
     * Finish in class exercises **(due Monday 6/3/2017)**
 
-* 6/3/2017
+14. 6/3/2017
 
   * **Topics**
 
@@ -298,14 +298,14 @@ introduced.
   * **Reading**
     * Chapter 11 - Inheritance and Polymorphism 11.1-11.8 (until 9/3)
 
-* 9/3/2017
+15. 9/3/2017
 
   * **Topics**
     * Dynamic Binding explained by Jack
     * Checking of Ex5 correctness and style
     * The inheritance diamond problem
 
-* 13/3/2017
+16. 13/3/2017
 
   * **Topics**
 
@@ -320,7 +320,7 @@ introduced.
     * Finish in class exercises (up to and including 2.2) **(due Thursday 16/3/2017)**
 
 
-* 16/3/2017
+17. 16/3/2017
 
   * **Topics**
 
@@ -332,13 +332,18 @@ introduced.
   * **Homework**
     * Finish in class exercises **(due Monday 20/3/2017)**
 
-* 20/3/2017
+18. 20/3/2017
 
   * **Topics**
     * The Gradle build tool
     * The Atom editor
     * Unit tests
     * Introduction to Exceptions
+
+  * **Exam**
+    * chapters 10-11
+    * multiple choice
+    * 30 minutes
 
   * **Reading**
     * Chapter 12 - Exception Handling and Text IO 12.1-12.5 (until 23/3)
