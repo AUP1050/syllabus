@@ -279,7 +279,7 @@ introduced.
   * Homework
     * Finish in class exercises **(due Monday 6/3/2017)**
 
-13. 6/3/2017
+* 6/3/2017
 
   * **Topics**
 
@@ -298,7 +298,14 @@ introduced.
   * **Reading**
     * Chapter 11 - Inheritance and Polymorphism 11.1-11.8 (until 9/3)
 
-14. 9/3/2017
+* 9/3/2017
+
+  * **Topics**
+    * Dynamic Binding explained by Jack
+    * Checking of Ex5 correctness and style
+    * The inheritance diamond problem
+
+* 13/3/2017
 
   * **Topics**
 
@@ -310,19 +317,31 @@ introduced.
     * Chapter 11 - Inheritance and Polymorphism 11.9-11.15 (until 13/3)
 
   * **Homework**
-    * Finish in class exercises **(due Monday 13/3/2017)**
+    * Finish in class exercises (up to and including 2.2) **(due Thursday 16/3/2017)**
 
 
-14. 13/3/2017
+* 16/3/2017
 
   * **Topics**
 
     * Quiz on chapter 11 (11.9-11.15)
-    * Case study: Stacks (11.13)
+    * Case study: Stacks by Ramata (11.13)
+        * Desining custom containers
     * In class exercise: Inheritance
 
   * **Homework**
-    * Finish in class exercises **(due Thursday 16/3/2017)**
+    * Finish in class exercises **(due Monday 20/3/2017)**
+
+* 20/3/2017
+
+  * **Topics**
+    * The Gradle build tool
+    * The Atom editor
+    * Unit tests
+    * Introduction to Exceptions
+
+  * **Reading**
+    * Chapter 12 - Exception Handling and Text IO 12.1-12.5 (until 23/3)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
