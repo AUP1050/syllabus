@@ -348,6 +348,21 @@ introduced.
   * **Reading**
     * Chapter 12 - Exception Handling and Text IO 12.1-12.5 (until 23/3)
 
+19. 23/3/2017
+
+  * **Topics**
+    * Compiler and virtual machine - Picking the right method to execute
+    * Introduction to Exceptions
+
+  * **Reading**
+    * Chapter 12 - Exception Handling and Text IO (until 27/3)
+
+19. 27/3/2017
+
+  * **Topics**
+    * Quiz on chapter 12
+    * In class exercise: Exceptions
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
