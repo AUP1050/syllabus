@@ -345,9 +345,6 @@ introduced.
     * multiple choice
     * 30 minutes
 
-  * **Reading**
-    * Chapter 12 - Exception Handling and Text IO 12.1-12.5 (until 23/3)
-
 19. 23/3/2017
 
   * **Topics**
@@ -357,11 +354,37 @@ introduced.
   * **Reading**
     * Chapter 12 - Exception Handling and Text IO (until 27/3)
 
-19. 27/3/2017
+20. 27/3/2017
 
   * **Topics**
     * Quiz on chapter 12
-    * In class exercise: Exceptions
+    * In class exercise: [Dynamic and static bindings](https://classroom.github.com/assignment-invitations/4d7e9798cb26fac78cf29161cf335b74)
+    * Static and dynamic bindings
+    * Exceptions
+
+
+  * **Homework**
+    * [Exceptions](https://classroom.github.com/assignment-invitations/228badb4f94fc6e06b6c69109ef577cb)
+      * Finish first 5 points until class on 30/3
+
+21. 30/3/2017
+
+  * **Topics**
+    * Exceptions
+    * Introduction to Abstract classes and Interfaces
+
+
+  * **Homework**
+    * [Exceptions](https://classroom.github.com/assignment-invitations/228badb4f94fc6e06b6c69109ef577cb)
+      * Finish until 3/4 (before easter!)
+
+  * **Reading**
+    * Chapter 13 - Abstract Clases and Interfaces (until 10/4)
+
+22. 10/4/2017
+
+  * **Topics**
+    * Quiz on chapter 13
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
