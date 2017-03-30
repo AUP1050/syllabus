@@ -376,7 +376,7 @@ introduced.
 
   * **Homework**
     * [Exceptions](https://classroom.github.com/assignment-invitations/228badb4f94fc6e06b6c69109ef577cb)
-      * Finish until 3/4 (before easter!)
+      * Finish until 10/4
 
   * **Reading**
     * Chapter 13 - Abstract Clases and Interfaces (until 10/4)
