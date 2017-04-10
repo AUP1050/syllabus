@@ -385,6 +385,28 @@ introduced.
 
   * **Topics**
     * Quiz on chapter 13
+    * Inheritance and Polymorphism
+    * JavaFx
+
+  * **Slides**
+    * [Class
+      22](https://github.com/AUP1050/class22/blob/master/main.pdf)
+
+  * **Reading**
+    * Chapter 14 - JavaFX Basics (until 14/4)
+
+23. 14/4/2017 (**make up class for the 13/4 will be held on the 14/4 at
+    13:45**)
+
+  * **Topics**
+    * Quiz on chapter 14
+    * Event Driven Programming
+
+  * **Homework**
+    * JavaFX
+
+  * **Reading**
+    * Part of chapter 15 (until 20/4)
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
