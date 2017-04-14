@@ -399,14 +399,32 @@ introduced.
     13:45**)
 
   * **Topics**
-    * Quiz on chapter 14
     * Event Driven Programming
 
+  * **Slides**
+    * [Class
+      23](https://github.com/AUP1050/class23/blob/master/main.pdf)
+
   * **Homework**
-    * JavaFX
+    * JavaFX (see slides, until 20/4)
 
   * **Reading**
-    * Part of chapter 15 (until 20/4)
+    * Chapter 15.1-15.10 (until 20/4)
+
+24. 20/4/2017
+
+  * **Topics**
+    * Recursion
+
+  * **Slides**
+    * [Class
+      24]()
+
+  * **Homework**
+    * Recursion
+
+  * **Reading**
+    * Chapter 18
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
