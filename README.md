@@ -416,12 +416,13 @@ introduced.
   * **Topics**
     * Recursion
 
-  * **Slides**
-    * [Class
-      24]()
-
   * **Homework**
     * Recursion
+        1. Implement the factorial function (sec 18.2)
+        2. Use recursion to print a reversed word (ex 18.9)
+        3. Use recursion in order to find the smallest number in an
+           array (ex 18.13)
+        4. Koch snowflake fractal (ex **18.27)
 
   * **Reading**
     * Chapter 18
