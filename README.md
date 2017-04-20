@@ -427,6 +427,22 @@ introduced.
   * **Reading**
     * Chapter 18
 
+25. 24/4/2017
+
+  * **Topics**
+    * Recursion
+    * Java Generics
+    * Quiz on chapter 18
+
+  * **Reading**
+    * Chapter 19
+
+26. 27/4/2017
+
+  * **Topics**
+    * Java Generics
+    * Quiz on chapter 19
+
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
 attend ALL scheduled classes, and in case of absence, should contact
