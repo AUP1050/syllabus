@@ -417,7 +417,7 @@ introduced.
     * Recursion
 
   * **Homework**
-    * Recursion
+    * Recursion (due 27/4)
         1. Implement the factorial function (sec 18.2)
         2. Use recursion to print a reversed word (ex 18.9)
         3. Use recursion in order to find the smallest number in an
@@ -431,17 +431,11 @@ introduced.
 
   * **Topics**
     * Recursion
-    * Java Generics
-    * Quiz on chapter 18
-
-  * **Reading**
-    * Chapter 19
 
 26. 27/4/2017
 
   * **Topics**
-    * Java Generics
-    * Quiz on chapter 19
+    * Recursion
 
 ### Attendance Policy
 Students studying at The American University of Paris are expected to
