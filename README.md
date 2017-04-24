@@ -432,6 +432,10 @@ introduced.
   * **Topics**
     * Recursion
 
+  * **Slides**
+    * [Class
+      25](https://github.com/AUP1050/class25/blob/master/main.pdf)
+
 26. 27/4/2017
 
   * **Topics**
